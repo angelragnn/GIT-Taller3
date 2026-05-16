@@ -1,9 +1,9 @@
 {
     "playerName": "Arqueólogo",
     "lastScenePlayed": "Cámara de Artefactos",
-    "timestamp": "2026-05-15T19:26:10",
+    "timestamp": "2026-05-15T22:46:27",
     "scene1": {
-        "artifactsCollected": 19,
+        "artifactsCollected": 22,
         "totalArtifacts": 10,
         "livesRemaining": 3,
         "livesLost": 0,
