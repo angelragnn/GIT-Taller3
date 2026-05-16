@@ -1,0 +1,28 @@
+{
+    "playerName": "Arqueólogo",
+    "lastScenePlayed": "Cámara de Artefactos",
+    "timestamp": "2026-05-15T19:26:10",
+    "scene1": {
+        "artifactsCollected": 19,
+        "totalArtifacts": 10,
+        "livesRemaining": 3,
+        "livesLost": 0,
+        "deathCount": 0,
+        "completed": true,
+        "completionTime": 0.0
+    },
+    "scene2": {
+        "objectsPlacedCorrectly": 0,
+        "totalObjectsToPlace": 5,
+        "failedAttempts": 0,
+        "eventsTriggered": [],
+        "portalUnlocked": false,
+        "completed": false,
+        "completionTime": 0.0
+    },
+    "sessionStats": {
+        "totalPlayTime": 0.0,
+        "totalAttempts": 0,
+        "gamesCompleted": 0
+    }
+}
